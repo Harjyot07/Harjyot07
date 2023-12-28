@@ -8,6 +8,11 @@ echo "My car is " . $color . "<br>";
 echo "My house is " . $COLOR . "<br>";
 echo "My boat is " . $coLOR . "<br>";
 ?>
+   s o i do the   fo fi fiojsjiosjs nchs  s kfhiohig nsbjichshc cnjscuidJ[DD JNSGD NDSJHISU0CSHBSK;HDS9H`::
 
-</body>
-</html>
+
+   `:
+
+
+
+
